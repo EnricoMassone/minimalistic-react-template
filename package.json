@@ -4,7 +4,10 @@
   "description": "Minimalistic template to create reactjs applications",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier \"src/**/*.{js,html,css}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "dev": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
@@ -39,5 +42,8 @@
     "eslint-plugin-react-hooks": "^2.3.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^1.19.1"
-  }
+  },
+  "browserslist": [
+    "defaults"
+  ]
 }

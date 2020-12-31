@@ -1,2 +1,2 @@
-# minimalistic-react-template
-Minimalistic template to create reactjs applications
+# Minimalistic ReactJS template
+This is a template to build react applications. 

@@ -10,7 +10,7 @@ If you want to learn react that is a really good starting point.
 
 ## Why I decided to create this template
 
-There two reasons of being for this template:
+There are two reasons of being for this template:
  - I wanted to consolidate the knowledge gained by the aforementioned and to have a ready to go and resusable template for react projects
  - I do not like complexity and I think that one of the purpose of the software engineering should be lowering complexity. So, I needed something simpler and clearer than the [create react app](https://github.com/facebook/create-react-app) project. Create react app is a wonderful project, but I was looking for something simpler and little less magical.
  
